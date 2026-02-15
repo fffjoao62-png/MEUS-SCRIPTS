@@ -28,4 +28,4 @@ for _, v in pairs(game:GetDescendants()) do
     end
 end
 
-print("Jogo otimizado com sucesso!")
+print("Jogo otimizado com sucesso!") 
